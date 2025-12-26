@@ -1,3 +1,3 @@
-This is my first experiment in the Full Stack Development class
+This is my first experiment in the Full Stack Development Skill class
 
 Git Version  Control
